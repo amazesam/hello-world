@@ -1,6 +1,12 @@
-@charset "utf-8";
-*{
-    font: 12px "微软雅黑", Helvetica, Arial, Verdana;
-}
-body{margin:0;padding:0;}
-ul,li,dl,dt,dd{ margin:0px; padding:0px; list-style:none;}
+diff --git "a/C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\TortoiseGit\\tesB55B.tmp\\test-ba8e8ca-left.css" "b/F:\\TEST\\hello-world\\test.css"
+index ab1c7e4..e69de29 100644
+--- "a/C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\TortoiseGit\\tesB55B.tmp\\test-ba8e8ca-left.css"
++++ "b/F:\\TEST\\hello-world\\test.css"
+@@ -1,6 +0,0 @@
+-@charset "utf-8";
+-*{
+-    font: 12px "微软雅黑", Helvetica, Arial, Verdana;
+-}
+-body{margin:0;padding:0;}
+-ul,li,dl,dt,dd{ margin:0px; padding:0px; list-style:none;}
+\ No newline at end of file
